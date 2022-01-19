@@ -4,14 +4,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-public class Creator : EditorWindow
+public class FolderCreator : EditorWindow
 {
     public string[] folderNames = { "Scripts", "Materials", "Textures", "Sprites", "UI", "Models", "Prefabs", "Particles", "Font", "Thirdparty", "Sounds" };
 
-    [MenuItem("Creator/Creator")]
+    [MenuItem("Tools/Folder Creator")]
     private static void CreateFolderList()
     {
-        GetWindow<Creator>("Folder Creator"); // Creates a new window
+        GetWindow<FolderCreator>("Folder Creator"); // Creates a new window
     }
 
     private void OnGUI()
