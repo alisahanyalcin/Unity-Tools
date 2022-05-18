@@ -1,15 +1,15 @@
-[submodule "Unity-Editor-Gizmo"]
+[submodule "Unity Editor Gizmo"]
 	path = Unity-Editor-Gizmo
 	url = https://github.com/alisahanyalcin/Unity-Editor-Gizmo
-[submodule "Unity-Dropbox-Tool"]
+[submodule "Unity Dropbox Tool"]
 	path = Unity-Dropbox-Tool
 	url = https://github.com/alisahanyalcin/Unity-Dropbox-Tool
-[submodule "Unity-Event-Action"]
+[submodule "Unity Event Action"]
 	path = Unity-Event-Action
 	url = https://github.com/alisahanyalcin/Unity-Event-Action
-[submodule "CustomHierarchyActivityButtons"]
+[submodule "Custom Hierarchy Activity Buttons"]
 	path = CustomHierarchyActivityButtons
 	url = https://github.com/alisahanyalcin/CustomHierarchyActivityButtons
-[submodule "AI-Waypoint-Network"]
+[submodule "AI Waypoint Network"]
 	path = AI-Waypoint-Network
 	url = https://github.com/alisahanyalcin/AI-Waypoint-Network
