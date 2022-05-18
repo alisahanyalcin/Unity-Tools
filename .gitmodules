@@ -13,3 +13,6 @@
 [submodule "AI Waypoint Network"]
 	path = AI-Waypoint-Network
 	url = https://github.com/alisahanyalcin/AI-Waypoint-Network
+[submodule "Folder-Creator"]
+	path = Folder-Creator
+	url = https://github.com/alisahanyalcin/Folder-Creator
