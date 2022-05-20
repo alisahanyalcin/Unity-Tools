@@ -13,3 +13,6 @@
 [submodule "Folder-Creator"]
 	path = Folder-Creator
 	url = https://github.com/alisahanyalcin/Folder-Creator
+[submodule "CustomHierarchyActivityButtons"]
+	path = CustomHierarchyActivityButtons
+	url = https://github.com/alisahanyalcin/CustomHierarchyActivityButtons
