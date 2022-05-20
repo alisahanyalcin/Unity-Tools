@@ -7,9 +7,6 @@
 [submodule "Unity Event Action"]
 	path = Unity-Event-Action
 	url = https://github.com/alisahanyalcin/Unity-Event-Action
-[submodule "Custom Hierarchy Activity Buttons"]
-	path = CustomHierarchyActivityButtons
-	url = https://github.com/alisahanyalcin/CustomHierarchyActivityButtons
 [submodule "AI Waypoint Network"]
 	path = AI-Waypoint-Network
 	url = https://github.com/alisahanyalcin/AI-Waypoint-Network
